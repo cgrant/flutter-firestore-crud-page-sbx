@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727144715725",
+    "project_id": "ff-crudpage-exampl",
+    "storage_bucket": "ff-crudpage-exampl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727144715725:android:d4e9690368e6fdcc3fa084",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727144715725-m8l1fkp7i75pab09gjnu146o1svshuih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwAh2-04v5OxarFelJJV4CsVqOzclInI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727144715725-m8l1fkp7i75pab09gjnu146o1svshuih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
